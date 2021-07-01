@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi tớ',
     reply: 'chết rồi lỡ bị say cậu mất rồi',
     mess: 'tớ biết mà🥰, iu cậu nhiều😙',
-    messDesc: 'hôm nào mình đi chơi nhá,😘 ',
+    messDesc: 'hôm nào mình đi chơi nhá,😘. ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' https://www.facebook.com/nguyen.phuongkhanh.545',
 }
