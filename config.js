@@ -10,10 +10,10 @@ const CONFIG = {
     btnYes: 'Vẫn cứ là thích cậu',
     btnNo: 'Không, bạn iu à <33',
     question:'Trên thế giới hơn 7 tỉ người mà sao tớ cứ yêu cậu <33',
-    btnReply: 'Gửi tớ,
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    btnReply: 'Gửi tớ',
+    reply: 'chết rồi lỡ bị say cậu mất rồi',
     mess: 'tớ biết mà🥰, iu cậu nhiều😙',
     messDesc: 'hôm nào mình đi chơi nhá,😘 ',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' https://www.facebook.com/nguyen.phuongkhanh.545
+    messLink: 'http://fb.com' https://www.facebook.com/nguyen.phuongkhanh.545',
 }
